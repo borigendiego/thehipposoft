@@ -1,0 +1,2 @@
+/wp-admin     https://wp.thehipposoft.com/wp-admin    200
+/wp-json      https://wp.thehipposoft.com/wp-json     200

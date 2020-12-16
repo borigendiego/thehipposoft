@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Staging site
+          the Staging site
         </a>
       </header>
     </div>
